@@ -1,1 +1,1 @@
-Test test 123
+The files added to this README is an accurate representation of my skill set in python. My sophomore and junior year of college I took multiple coding courses, two of my final projects I was most proud of were my simulation from classical mechanics (Particle-wave) and from Computation science and data analysis 2 (Traffic). 
